@@ -1,7 +1,5 @@
 node{
     stage('Megarun'){
-        parallel(
-                echo "test"
-        )
+        echo "test"
     }
 }
